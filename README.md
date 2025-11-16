@@ -3,7 +3,7 @@
 Backend ini dibuat pakai Node.js + Express, Prisma sebagai ORM, dan Cloudinary untuk cloud upload gambar.
 
 Clone frontend-nya:  
-👉 https://github.com/USERNAME/LINK-FRONTEND-MU
+👉 https://github.com/Verencee/Frontend-Yumeclo-UAS-Pemro3
 
 ---
 
